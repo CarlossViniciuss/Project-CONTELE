@@ -12,15 +12,9 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
 </p></br>
 
-
-  <img width="100%" alt="mockup" src="img/image1.png" alt="TRack">
-
-</br>
-
-
-
-
-
+<p align="center">
+  <img width="50%" alt="mockup" src="img/img1.gif" alt="TRack">
+</p></br>
 
 ## ⚙ Tecnologias
 
@@ -32,8 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Sistema desenvolvido para um desafio da empresa CONTELE onde o objetivo proposto foi "Desenvolver uma página bem simples utilizando o Maps Javascript API para plotar os Markers(Pontos) no mapa. A Contele irá disponibilizar 50 mil pontos via JSON e você deverá plotar esses locais no mapa, mas o desafio será também fazer agrupamento dos pontos no Mapa.",
-foi implementado um JSON fornecido pela empresa para plotar os markes no mapa e utilizado a API LEAFLET pelo fato das diretrizes do Google sobre suas API's mudou e assim não permitindo que eu utilizasse o mesmo.
+Sistema desenvolvido para um desafio da empresa CONTELE onde o objetivo proposto foi "Desenvolver uma página bem simples onde devemos ter um mapa com 50 mil marcadores e clusterizar os mesmos",foi implementado um JSON fornecido pela empresa para plotar os markes no mapa e utilizado a API LEAFLET, como base do projeto foi utilizado o Nodejs que pode ser definido como ambiente de execução Javascript server-side ou seja é possível criar aplicações Javascript para rodar como uma aplicação standalone em uma máquina, não dependendo de um browser para a execução.
 
 
 ## 🚀 Como executar
