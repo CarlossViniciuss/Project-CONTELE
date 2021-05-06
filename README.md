@@ -30,16 +30,18 @@ Sistema desenvolvido para um desafio da empresa CONTELE onde o objetivo proposto
 
 
 ## 🚀 Processo de criação
-Como forma de boas praticas e para organização do sistema o mesmo foi separado em diversas pastas para que ficassem distribuidas de acordo com sua função.
+Como forma de boas praticas e para organização do sistema o mesmo foi separado em diversas pastas para que ficassem distribuidas de acordo com suas funções.
 
 
-Na pasta (public) temos duas pastas uma onde esta o css do mapa que guarda toda a estilização do mapa e dos marcadores e temos a pasta (js) onde se encontra o main.js que é onde temos a importação do JSON e toda logica aplicada no mapa.
+1.Pasta (node_module) é onde se encontra todos os pacotes externos a serem utilizados.
 
-Ja na (routes) temos literalmente a rota de onde ira ser renderezado o sistema.
+2.Na pasta (public) temos duas pastas uma onde esta o css do mapa que guarda toda a estilização do mesmo e dos marcadores, temos a pasta (js) onde se encontra o main.js que é onde temos a importação do JSON e toda logica aplicada no mapa.
 
-E enfim temos a pasta (views) onde se encontra o index.ejs que é o arquivo onde temos o html da pagina que no mesmo tem a importação dos links uteis para o mapa como a clusterização de seus markers a div onde indexamos o mapa e o script main que é onde esta a logica por tras.
+3.Ja na (routes) temos literalmente a rota de onde ira ser renderezado o sistema.
 
-Também temos o arquivo "index.js" que é o arquivo onde setamos os requires e o servidor que se encontra na porta 3000
+4.E enfim temos a pasta (views) onde se encontra o index.ejs que é o arquivo onde temos o html da pagina que no mesmo tem a importação dos links uteis para o mapa como a clusterização de seus markers a div onde indexamos o mapa e o script main que é onde esta a logica por tras.
+
+5.Também temos o arquivo "index.js" que é o arquivo onde setamos os requires e o servidor que se encontra na porta 3000
 
 
 
