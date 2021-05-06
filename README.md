@@ -1,5 +1,5 @@
 
-<h1 align="center">Map NodeJS</h1>
+<h1 align="center">Contele International Project</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -27,6 +27,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Sistema desenvolvido para um desafio da empresa CONTELE onde o objetivo proposto foi "Desenvolver uma página bem simples onde devemos ter um mapa com 50 mil marcadores e clusterizar os mesmos",foi implementado um JSON fornecido pela empresa para plotar os markes no mapa e utilizado a API LEAFLET, como base do projeto foi utilizado o Nodejs que pode ser definido como ambiente de execução Javascript server-side ou seja é possível criar aplicações Javascript para rodar como uma aplicação standalone em uma máquina, não dependendo de um browser para a execução.
+
+
+## 🚀 Processo de criação
+Como forma de boas praticas e para organização do sistema o mesmo foi separado em diversas pastas para que ficassem distribuidas de acordo com sua função.
+
+
+
 
 
 ## 🚀 Como executar
