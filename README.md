@@ -33,6 +33,14 @@ Sistema desenvolvido para um desafio da empresa CONTELE onde o objetivo proposto
 Como forma de boas praticas e para organização do sistema o mesmo foi separado em diversas pastas para que ficassem distribuidas de acordo com sua função.
 
 
+Na pasta (public) temos duas pastas uma onde esta o css do mapa que guarda toda a estilização do mapa e dos marcadores e temos a pasta (js) onde se encontra o main.js que é onde temos a importação do JSON e toda logica aplicada no mapa.
+
+Ja na (routes) temos literalmente a rota de onde ira ser renderezado o sistema.
+
+E enfim temos a pasta (views) onde se encontra o index.ejs que é o arquivo onde temos o html da pagina que no mesmo tem a importação dos links uteis para o mapa como a clusterização de seus markers a div onde indexamos o mapa e o script main que é onde esta a logica por tras.
+
+Também temos o arquivo "index.js" que é o arquivo onde setamos os requires e o servidor que se encontra na porta 3000
+
 
 
 
