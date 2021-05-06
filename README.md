@@ -13,7 +13,7 @@
 </p></br>
 
 <p align="center">
-  <img width="50%" alt="mockup" src="img/img1.gif" alt="TRack">
+  <img width="50%" alt="mockup" src="img/img1.gif" alt="Mockup">
 </p></br>
 
 ## ⚙ Tecnologias
@@ -31,7 +31,9 @@ Sistema desenvolvido para um desafio da empresa CONTELE onde o objetivo proposto
 
 ## 🚀 Processo de criação
 Como forma de boas praticas e para organização do sistema o mesmo foi separado em diversas pastas para que ficassem distribuidas de acordo com suas funções.
-
+<p align="center">
+  <img width="50%" alt="mockup" src="img/img2.png" alt="Mockup">
+</p></br>
 
 1.Pasta (node_module) é onde se encontra todos os pacotes externos a serem utilizados.
 
