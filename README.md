@@ -1,5 +1,5 @@
 
-<h1 align="center">Map NodeJS</h1>
+<h1 align="center">Contele International Project</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -12,15 +12,9 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
 </p></br>
 
-
-  <img width="100%" alt="mockup" src="img/image1.png" alt="TRack">
-
-</br>
-
-
-
-
-
+<p align="center">
+  <img width="50%" alt="mockup" src="img/img1.gif" alt="TRack">
+</p></br>
 
 ## ⚙ Tecnologias
 
@@ -32,8 +26,24 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Sistema desenvolvido para um desafio da empresa CONTELE onde o objetivo proposto foi "Desenvolver uma página bem simples utilizando o Maps Javascript API para plotar os Markers(Pontos) no mapa. A Contele irá disponibilizar 50 mil pontos via JSON e você deverá plotar esses locais no mapa, mas o desafio será também fazer agrupamento dos pontos no Mapa.",
-foi implementado um JSON fornecido pela empresa para plotar os markes no mapa e utilizado a API LEAFLET pelo fato das diretrizes do Google sobre suas API's mudou e assim não permitindo que eu utilizasse o mesmo.
+Sistema desenvolvido para um desafio da empresa CONTELE onde o objetivo proposto foi "Desenvolver uma página bem simples onde devemos ter um mapa com 50 mil marcadores e clusterizar os mesmos",foi implementado um JSON fornecido pela empresa para plotar os markes no mapa e utilizado a API LEAFLET, como base do projeto foi utilizado o Nodejs que pode ser definido como ambiente de execução Javascript server-side ou seja é possível criar aplicações Javascript para rodar como uma aplicação standalone em uma máquina, não dependendo de um browser para a execução.
+
+
+## 🚀 Processo de criação
+Como forma de boas praticas e para organização do sistema o mesmo foi separado em diversas pastas para que ficassem distribuidas de acordo com suas funções.
+
+
+1.Pasta (node_module) é onde se encontra todos os pacotes externos a serem utilizados.
+
+2.Na pasta (public) temos duas pastas uma onde esta o css do mapa que guarda toda a estilização do mesmo e dos marcadores, temos a pasta (js) onde se encontra o main.js que é onde temos a importação do JSON e toda logica aplicada no mapa.
+
+3.Ja na (routes) temos literalmente a rota de onde ira ser renderezado o sistema.
+
+4.E enfim temos a pasta (views) onde se encontra o index.ejs que é o arquivo onde temos o html da pagina que no mesmo tem a importação dos links uteis para o mapa como a clusterização de seus markers a div onde indexamos o mapa e o script main que é onde esta a logica por tras.
+
+5.Também temos o arquivo "index.js" que é o arquivo onde setamos os requires e o servidor que se encontra na porta 3000
+
+
 
 
 ## 🚀 Como executar
