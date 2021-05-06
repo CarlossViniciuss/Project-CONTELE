@@ -80,12 +80,11 @@ Primeiramente agradeço pela oportunidade que não nego que foi uma oportunidade
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 </br></br>
 
-### Autor
+## Autor
 
+ <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/69722024?v=4" width="100px" style="border-radius:50%"/>
 
- <img style="border-radius: 50%" src="https://github.com/account" width="100px" alt=""/>
-
- <sub><b>Carlos Vinicius</b></sub></a> <a href="">🚀</a>
+ <sub><b>Carlos Vinicius</b></sub><a href="">🚀</a>
 <br />
 
 Feito com ❤️ por Carlos Vinicius 👋🏽 Entre em contato!
