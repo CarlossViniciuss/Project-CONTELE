@@ -27,10 +27,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Sistema desenvolvido para um desafio da empresa CONTELE onde o objetivo proposto foi "Desenvolver uma página bem simples onde devemos ter um mapa com 50 mil marcadores e clusterizar os mesmos",foi implementado um JSON fornecido pela empresa para plotar os markes no mapa e utilizado a API LEAFLET, como base do projeto foi utilizado o Nodejs que pode ser definido como ambiente de execução Javascript server-side ou seja é possível criar aplicações Javascript para rodar como uma aplicação standalone em uma máquina, não dependendo de um browser para a execução.
+</br></br>
 
-
-## 🚀 Processo de criação
+## ⏩ Processo de criação
 Como forma de boas praticas e para organização do sistema o mesmo foi separado em diversas pastas para que ficassem distribuidas de acordo com suas funções.
+
 <p align="center">
   <img width="50%" alt="mockup" src="img/img2.png" alt="Mockup">
 </p></br>
@@ -43,18 +44,22 @@ Como forma de boas praticas e para organização do sistema o mesmo foi separado
 
 4.E enfim temos a pasta (views) onde se encontra o index.ejs que é o arquivo onde temos o html da pagina que no mesmo tem a importação dos links uteis para o mapa como a clusterização de seus markers a div onde indexamos o mapa e o script main que é onde esta a logica por tras.
 
-5.Também temos o arquivo "index.js" que é o arquivo onde setamos os requires e o servidor que se encontra na porta 3000
+5.Também temos o arquivo "index.js" que é o arquivo onde setamos os requires e o servidor que se encontra na porta 3000.
 
 
 
 
-## 🚀 Como executar
+## 🌌 Como executar
 
 - Clone o repositório
 - Baixe o NodeJS - [NodeJS](https://nodejs.org/en/)
 - Inicie o servidor local atraves do "npm run dev"
 
 Agora você pode acessar [`localhost`](http://localhost:3000) do seu navegador.
+
+## 🌌 Conclusão
+Primeiramente agradeço pela oportunidade que não nego mesmo que foi uma oportunidade incrivel que me fez ter mais certeza que estou no caminho certo, com esse objetivo a cada minuto estava aprendendo conteudos novos e passando por mais uma barreira que eu estava enfrentando em cada tarefa que deveria ser executada, o aprendizado oi incrivel e segue constante com essa tecnologia que esta na linha de frente das tecnologias utilizadas no mercado essa expêriencia unica so me proporcionou mais motivação. Estou a disposição para receber comentarios, dicas e melhorias des de ja obrigado!
+
 
 ## 📄 Licença
 
